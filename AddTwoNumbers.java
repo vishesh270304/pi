@@ -7,7 +7,5 @@ public class AddTwoNumbers {
 
         // Print the result
         System.out.println("The sum is: " + sum);
-        
-        scanner.close();
     }
 }
